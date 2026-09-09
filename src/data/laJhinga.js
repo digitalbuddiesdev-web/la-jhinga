@@ -1,3 +1,15 @@
+import goanThaali from '../assets/Gallary/Goan-Thaali.jpeg';
+import prawnsRawaFry from '../assets/Gallary/Prawns-rawa-fry.jpeg';
+import masalaPrawns from '../assets/Gallary/Masala-prawns.jpeg';
+import sittingArea from '../assets/Gallary/Sitting-area.jpeg';
+import sittingArea2 from '../assets/Gallary/Sitting-area-2.jpeg';
+import entrance from '../assets/Gallary/Entrance.jpeg';
+import dalMakhni from '../assets/Gallary/Dal-makhni.jpeg';
+import orangeJuice from '../assets/Gallary/Orange-juice.jpeg';
+import greenAppleJuice from '../assets/Gallary/Green-apple-juice.jpeg';
+import todaySpecialMenu from '../assets/Gallary/today-special-menu.jpeg';
+import whatsappImage from '../assets/Gallary/WhatsApp Image 2026-09-09 at 6.24.27 PM (1).jpeg';
+
 export const laJhingaData = {
   brandId: 'lajhinga',
   brandName: 'La Jhinga',
@@ -171,44 +183,72 @@ export const laJhingaData = {
     {
       id: 1,
       category: 'Seafood',
-      title: 'Whole Tandoori Catch',
-      image: 'https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=1200&q=80',
-      caption: 'Freshly roasted whole fish infused with herbs and lemon.'
+      title: 'Goan Thaali',
+      image: goanThaali,
+      caption: 'Authentic Goan thaali with fresh coastal flavours.'
     },
     {
       id: 2,
-      category: 'Outdoor Seating',
-      title: 'Breezy Open-Air Dining',
-      image: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=80',
-      caption: 'Warm wooden tables under lush palm leaves and coastal air.'
+      category: 'Seafood',
+      title: 'Prawns Rawa Fry',
+      image: prawnsRawaFry,
+      caption: 'Crispy semicolon-coated prawns with a Goan twist.'
     },
     {
       id: 3,
       category: 'Seafood',
-      title: 'Golden Tiger Prawns',
-      image: 'https://images.unsplash.com/photo-1559847844-5315695dadae?auto=format&fit=crop&w=800&q=80',
-      caption: 'Jumbo prawns tossed in garlic herb butter.'
+      title: 'Masala Prawns',
+      image: masalaPrawns,
+      caption: 'Spicy masala prawns tossed in aromatic coastal spices.'
     },
     {
       id: 4,
-      category: 'Live Music',
-      title: 'Acoustic Evening Sessions',
-      image: 'https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80',
-      caption: 'Live acoustic notes drifting on the evening breeze.'
+      category: 'North Indian',
+      title: 'Dal Makhni',
+      image: dalMakhni,
+      caption: 'Rich and creamy dal makhni slow-cooked to perfection.'
     },
     {
       id: 5,
       category: 'Restaurant',
-      title: 'Coastal Cafe Ambiance',
-      image: 'https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80',
-      caption: 'Relaxed dining aesthetic crafted for memorable gatherings.'
+      title: 'Sitting Area',
+      image: sittingArea,
+      caption: 'Comfortable open-air seating with coastal vibes.'
     },
     {
       id: 6,
-      category: 'Sunset Vibe',
-      title: 'Golden Hour at Palolem',
-      image: 'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80',
-      caption: 'Moments away from Palolem Beach shoreline.'
+      category: 'Restaurant',
+      title: 'Sitting Area',
+      image: sittingArea2,
+      caption: 'Relaxed dining space perfect for gatherings.'
+    },
+    {
+      id: 7,
+      category: 'Restaurant',
+      title: 'Entrance',
+      image: entrance,
+      caption: 'Welcome to La Jhinga — coastal seafood and cafe.'
+    },
+    {
+      id: 8,
+      category: 'Beverages',
+      title: 'Fresh Orange Juice',
+      image: orangeJuice,
+      caption: 'Refreshing freshly squeezed orange juice.'
+    },
+    {
+      id: 9,
+      category: 'Beverages',
+      title: 'Green Apple Juice',
+      image: greenAppleJuice,
+      caption: 'Cool and refreshing green apple juice.'
+    },
+    {
+      id: 10,
+      category: 'Specials',
+      title: "Today's Special Menu",
+      image: todaySpecialMenu,
+      caption: "Check out today's special dishes crafted by our chef."
     }
   ]
 };
