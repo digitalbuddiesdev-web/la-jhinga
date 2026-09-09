@@ -8,7 +8,7 @@ import dalMakhni from '../assets/Gallary/Dal-makhni.jpeg';
 import orangeJuice from '../assets/Gallary/Orange-juice.jpeg';
 import greenAppleJuice from '../assets/Gallary/Green-apple-juice.jpeg';
 import todaySpecialMenu from '../assets/Gallary/today-special-menu.jpeg';
-import whatsappImage from '../assets/Gallary/WhatsApp Image 2026-09-09 at 6.24.27 PM (1).jpeg';
+import taquila from '../assets/Gallary/taquila.jpeg';
 
 export const laJhingaData = {
   brandId: 'lajhinga',
@@ -249,6 +249,13 @@ export const laJhingaData = {
       title: "Today's Special Menu",
       image: todaySpecialMenu,
       caption: "Check out today's special dishes crafted by our chef."
+    },
+    {
+      id: 11,
+      category: 'Beverages',
+      title: 'Tequila',
+      image: taquila,
+      caption: 'Premium tequila served with a coastal twist.'
     }
   ]
 };
