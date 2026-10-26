@@ -10,6 +10,23 @@ import greenAppleJuice from '../assets/Gallary/Green-apple-juice.jpeg';
 import todaySpecialMenu from '../assets/Gallary/today-special-menu.jpeg';
 import taquila from '../assets/Gallary/taquila.jpeg';
 
+// New Photography Assets
+import grilledTigerPrawns from '../assets/Gallary/Grilled-tiger-prawns.jpeg';
+import signatureGrilledPrawns from '../assets/Gallary/Signature-grilled-prawns.jpeg';
+import goanThaliExperience from '../assets/Gallary/Goan-thali-experience.jpeg';
+import penneArrabbiata from '../assets/Gallary/Penne-arrabbiata.jpeg';
+import artisanPasta from '../assets/Gallary/Artisan-pasta.jpeg';
+import woodFiredPizza from '../assets/Gallary/Wood-fired-pizza.jpeg';
+import waveMuralDining from '../assets/Gallary/Wave-mural-dining.jpeg';
+import cafePerspectiveView from '../assets/Gallary/Cafe-perspective-view.jpeg';
+import tropicalPalmAmbience from '../assets/Gallary/Tropical-palm-ambience.jpeg';
+import canopyLanterns from '../assets/Gallary/Canopy-lanterns.jpeg';
+import eveningDining from '../assets/Gallary/Evening-dining.jpeg';
+import brickBarCounter from '../assets/Gallary/Brick-bar-counter.jpeg';
+import archBottleDisplay from '../assets/Gallary/Arch-bottle-display.jpeg';
+import neonBarLounge from '../assets/Gallary/Neon-bar-lounge.jpeg';
+import sunsetWaveMural from '../assets/Gallary/Sunset-wave-mural.jpeg';
+
 export const laJhingaData = {
   brandId: 'lajhinga',
   brandName: 'La Jhinga',
@@ -189,73 +206,178 @@ export const laJhingaData = {
     },
     {
       id: 2,
-      category: 'Seafood',
-      title: 'Prawns Rawa Fry',
-      image: prawnsRawaFry,
-      caption: 'Crispy semicolon-coated prawns with a Goan twist.'
+      category: 'Restaurant',
+      title: 'Draped Canopy & Lanterns',
+      image: canopyLanterns,
+      caption: 'Signature fabric-draped canopy ceiling illuminated by warm woven cane chandeliers.'
     },
     {
       id: 3,
       category: 'Seafood',
-      title: 'Masala Prawns',
-      image: masalaPrawns,
-      caption: 'Spicy masala prawns tossed in aromatic coastal spices.'
+      title: 'Grilled Tiger Prawns',
+      image: grilledTigerPrawns,
+      caption: 'Succulent tiger prawns grilled to perfection with lemon and aromatic coastal herbs.'
     },
     {
       id: 4,
-      category: 'North Indian',
-      title: 'Dal Makhni',
-      image: dalMakhni,
-      caption: 'Rich and creamy dal makhni slow-cooked to perfection.'
+      category: 'Seafood',
+      title: 'Prawns Rawa Fry',
+      image: prawnsRawaFry,
+      caption: 'Crispy semolina-coated prawns with a Goan twist.'
     },
     {
       id: 5,
+      category: 'Restaurant',
+      title: 'Coastal Wave Dining Deck',
+      image: waveMuralDining,
+      caption: 'Intimate open seating accompanied by illuminated Goan wave murals and tropical greenery.'
+    },
+    {
+      id: 6,
+      category: 'Multi-Cuisine',
+      title: 'Artisanal Cheesy Pizza',
+      image: woodFiredPizza,
+      caption: 'Crispy stone-baked crust topped with melted mozzarella and savoury toppings.'
+    },
+    {
+      id: 7,
       category: 'Restaurant',
       title: 'Sitting Area',
       image: sittingArea,
       caption: 'Comfortable open-air seating with coastal vibes.'
     },
     {
-      id: 6,
+      id: 8,
+      category: 'Multi-Cuisine',
+      title: 'Penne Arrabbiata',
+      image: penneArrabbiata,
+      caption: 'Al dente penne pasta tossed in rich tomato basil sauce with freshly grated parmesan.'
+    },
+    {
+      id: 9,
+      category: 'Seafood',
+      title: 'Masala Prawns',
+      image: masalaPrawns,
+      caption: 'Spicy masala prawns tossed in aromatic coastal spices.'
+    },
+    {
+      id: 10,
+      category: 'Beverages',
+      title: 'Night Bar & Spirits',
+      image: neonBarLounge,
+      caption: 'Vibrant blue-lit bar shelves showcasing world-class spirits and craft cocktails.'
+    },
+    {
+      id: 11,
+      category: 'North Indian',
+      title: 'Dal Makhni',
+      image: dalMakhni,
+      caption: 'Rich and creamy dal makhni slow-cooked to perfection.'
+    },
+    {
+      id: 12,
+      category: 'Restaurant',
+      title: 'Palolem Deck Perspective',
+      image: cafePerspectiveView,
+      caption: 'Inviting perspective looking out toward the Palolem Beach road from our dining deck.'
+    },
+    {
+      id: 13,
+      category: 'Seafood',
+      title: 'Signature Coastal Prawns',
+      image: signatureGrilledPrawns,
+      caption: 'Fresh catch of the day, marinated in Goan spices and grilled on open flame.'
+    },
+    {
+      id: 14,
+      category: 'Beverages',
+      title: 'Illuminated Bar Arch',
+      image: archBottleDisplay,
+      caption: 'Backlit architectural arch featuring our premium spirits and glassware selection.'
+    },
+    {
+      id: 15,
       category: 'Restaurant',
       title: 'Sitting Area',
       image: sittingArea2,
       caption: 'Relaxed dining space perfect for gatherings.'
     },
     {
-      id: 7,
+      id: 16,
+      category: 'Multi-Cuisine',
+      title: 'Artisan Italian Pasta',
+      image: artisanPasta,
+      caption: 'Freshly prepared continental pasta with garden herbs and balsamic glaze.'
+    },
+    {
+      id: 17,
       category: 'Restaurant',
       title: 'Entrance',
       image: entrance,
       caption: 'Welcome to La Jhinga — coastal seafood and cafe.'
     },
     {
-      id: 8,
+      id: 18,
+      category: 'Seafood',
+      title: 'Coastal Thali Experience',
+      image: goanThaliExperience,
+      caption: 'Guests savoring traditional Goan coastal seafood thali.'
+    },
+    {
+      id: 19,
       category: 'Beverages',
       title: 'Fresh Orange Juice',
       image: orangeJuice,
       caption: 'Refreshing freshly squeezed orange juice.'
     },
     {
-      id: 9,
-      category: 'Beverages',
-      title: 'Green Apple Juice',
-      image: greenAppleJuice,
-      caption: 'Cool and refreshing green apple juice.'
+      id: 20,
+      category: 'Restaurant',
+      title: 'Tropical Palm Ambience',
+      image: tropicalPalmAmbience,
+      caption: 'Warm, relaxed evenings framed by lush indoor palms and rattan pendant lights.'
     },
     {
-      id: 10,
+      id: 21,
       category: 'Specials',
       title: "Today's Special Menu",
       image: todaySpecialMenu,
       caption: "Check out today's special dishes crafted by our chef."
     },
     {
-      id: 11,
+      id: 22,
+      category: 'Beverages',
+      title: 'Artisan Bar Counter',
+      image: brickBarCounter,
+      caption: 'Rustic white-brick bar counter serving curated cocktails and cold beverages.'
+    },
+    {
+      id: 23,
+      category: 'Beverages',
+      title: 'Green Apple Juice',
+      image: greenAppleJuice,
+      caption: 'Cool and refreshing green apple juice.'
+    },
+    {
+      id: 24,
+      category: 'Restaurant',
+      title: 'Evenings at La Jhinga',
+      image: eveningDining,
+      caption: 'Friends and families sharing chilled drinks and good conversations.'
+    },
+    {
+      id: 25,
       category: 'Beverages',
       title: 'Tequila',
       image: taquila,
       caption: 'Premium tequila served with a coastal twist.'
+    },
+    {
+      id: 26,
+      category: 'Specials',
+      title: 'Palolem Sunset Mural',
+      image: sunsetWaveMural,
+      caption: 'Hand-painted coastal artwork capturing the spirit of Palolem Beach sunsets.'
     }
   ]
 };

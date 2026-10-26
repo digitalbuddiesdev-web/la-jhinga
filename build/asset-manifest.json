@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.00589887.css",
+    "main.js": "/static/js/main.d4ef32c2.js",
+    "static/media/Canopy-lanterns.jpeg": "/static/media/Canopy-lanterns.d023c79ef3789a7400ad.jpeg",
+    "static/media/Neon-bar-lounge.jpeg": "/static/media/Neon-bar-lounge.fe5626c4f396b7b2a497.jpeg",
+    "static/media/Cafe-perspective-view.jpeg": "/static/media/Cafe-perspective-view.48973c927601feb8564b.jpeg",
+    "static/media/Brick-bar-counter.jpeg": "/static/media/Brick-bar-counter.1872aa14494fbc0aba8d.jpeg",
+    "static/media/Wave-mural-dining.jpeg": "/static/media/Wave-mural-dining.edd7e30a4c5f1d9f1fe6.jpeg",
+    "static/media/Goan-thali-experience.jpeg": "/static/media/Goan-thali-experience.61a521e074279c2f1166.jpeg",
+    "static/media/Entrance.jpeg": "/static/media/Entrance.068f04c03c7e21763d26.jpeg",
+    "static/media/Evening-dining.jpeg": "/static/media/Evening-dining.c6cc8df387a77a2c4643.jpeg",
+    "static/media/Tropical-palm-ambience.jpeg": "/static/media/Tropical-palm-ambience.df85c66eef3453cfa0cd.jpeg",
+    "static/media/Grilled-tiger-prawns.jpeg": "/static/media/Grilled-tiger-prawns.575a9fdff90ccb6b1ed8.jpeg",
+    "static/media/Signature-grilled-prawns.jpeg": "/static/media/Signature-grilled-prawns.59aca575e428b268f560.jpeg",
+    "static/media/Wood-fired-pizza.jpeg": "/static/media/Wood-fired-pizza.9cfd4a56afa1c5b38c54.jpeg",
+    "static/media/Arch-bottle-display.jpeg": "/static/media/Arch-bottle-display.6999f1302fee0faba819.jpeg",
+    "static/media/Goan-Thaali.jpeg": "/static/media/Goan-Thaali.1d079d91ff6a328edea7.jpeg",
+    "static/media/Dal-makhni.jpeg": "/static/media/Dal-makhni.593d67576774e676d18a.jpeg",
+    "static/media/Penne-arrabbiata.jpeg": "/static/media/Penne-arrabbiata.ad8573ed025ef25ebf1f.jpeg",
+    "static/media/Sitting-area.jpeg": "/static/media/Sitting-area.01419d0a9f4b655da4df.jpeg",
+    "static/media/Masala-prawns.jpeg": "/static/media/Masala-prawns.56f8f695f491488707d3.jpeg",
+    "static/media/Sitting-area-2.jpeg": "/static/media/Sitting-area-2.d8ee179ae73c578fa784.jpeg",
+    "static/media/today-special-menu.jpeg": "/static/media/today-special-menu.a2c77183bc42909fc956.jpeg",
+    "static/media/Sunset-wave-mural.jpeg": "/static/media/Sunset-wave-mural.f67b9158966504ecde80.jpeg",
+    "static/media/Prawns-rawa-fry.jpeg": "/static/media/Prawns-rawa-fry.d4d93e25cc942f2fb410.jpeg",
+    "static/media/Artisan-pasta.jpeg": "/static/media/Artisan-pasta.1190bcad3bd7cd785057.jpeg",
+    "static/media/Orange-juice.jpeg": "/static/media/Orange-juice.82c1ab958031772064fe.jpeg",
+    "static/media/Green-apple-juice.jpeg": "/static/media/Green-apple-juice.1fe093c9bdc2788c1a42.jpeg",
+    "static/media/taquila.jpeg": "/static/media/taquila.0dbc785251ca1e91dd2c.jpeg",
+    "static/media/la_jhingalogo.jpg": "/static/media/la_jhingalogo.aa95d615ea40d8926760.jpg",
+    "static/media/9pmlogo.jpg": "/static/media/9pmlogo.01c9bdf531ad19e16043.jpg",
+    "index.html": "/index.html",
+    "main.00589887.css.map": "/static/css/main.00589887.css.map",
+    "main.d4ef32c2.js.map": "/static/js/main.d4ef32c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00589887.css",
+    "static/js/main.d4ef32c2.js"
+  ]
+}
