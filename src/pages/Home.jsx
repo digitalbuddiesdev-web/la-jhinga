@@ -77,7 +77,7 @@ export default function Home({ data, onOpenReservation }) {
           <h1 className="text-4xl sm:text-6xl lg:text-7xl font-bold font-serif tracking-tight text-white leading-[1.1] drop-shadow-md">
             Fresh From The Sea. <br />
             <span className="italic font-normal text-[#FF8F72]">
-              Made For The Moment.
+              Made For The Moment. <span className="sr-only">— Best Seafood Restaurant &amp; Open-Air Cafe in Palolem Beach, South Goa</span>
             </span>
           </h1>
 

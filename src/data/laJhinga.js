@@ -60,7 +60,7 @@ export const laJhingaData = {
   ],
 
   seafoodHero: {
-    title: 'Fresh, Thoughtfully Prepared Seafood',
+    title: 'Fresh Coastal Seafood & Catch of Palolem',
     subtitle: 'THE CATCH OF PALOLEM',
     description: 'Seafood is the beating heart of La Jhinga. From silver pomfrets grilled with aromatic Goan recheado masala to jumbo king prawns in golden garlic butter, our chefs celebrate coastal treasures with authentic coastal culinary pride.',
     highlights: [
